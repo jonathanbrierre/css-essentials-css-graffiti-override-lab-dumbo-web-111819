@@ -19,7 +19,7 @@ div#wall #tag-2 + #tag-3.slick {
   display: none;
 }
 
-div#wall div.parent +div.parent +div.parent div:last-child div#tag-6 {
+div#wall div.parent +div.parent +div.paren div:last-child div#tag-6 {
   display: none;
 }
 
