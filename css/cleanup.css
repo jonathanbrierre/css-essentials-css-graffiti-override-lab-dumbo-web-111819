@@ -18,3 +18,11 @@ div#wall #tag-2 + #tag-3.slick {
 #wall div.parent + div.parent div#tag-5.slick {
   display: none;
 }
+
+#wall .tag-1 {
+  display: none;
+}
+
+#wall .tag-1 {
+  display: none;
+}
